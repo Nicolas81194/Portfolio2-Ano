@@ -1,0 +1,28 @@
+create table livros(
+	quantEstoque varchar(100) not null,
+    genero varchar(7) not null,
+    autor varchar (14) not null,
+  	titulo varchar(14) not null,
+    primary key (titulo)
+  )
+ 
+   Create table Fornecedores(
+    nome varchar(7) not null,
+    telefone varchar(11) not null,
+    codFornecedor varchar(14) not null,
+    primary key (codFornecedor)
+    )
+    
+    Create table Funcionários(
+      nome varchar(7) not null,
+      salario varchar(6) not null,
+      codFuncionario varchar(14) not null,
+      primary key (codFuncionario)
+      )
+      
+      create table Livraria(
+        nome varchar(15) not null,
+  		estantes int not null,
+  		cnpj varchar(14) not null,
+  primary key (cnpj)
+        )
