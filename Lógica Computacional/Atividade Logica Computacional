@@ -1,0 +1,15 @@
+package rept;
+import javax.swing.JOptionPane;
+public class Rept {
+public static void main(String[] args) {
+usaFor();
+}
+public static void usaFor(){
+int n = Integer.parseInt(JOptionPane.showInputDialog("Digite um numero!"));
+for(int p = 2; p <= n; p++){
+if(p%2==1){
+JOptionPane.showMessageDialog(null, "Inteiros "+p);
+}
+}
+}
+}
