@@ -1,0 +1,29 @@
+create table BodyBuilder(
+nome varchar(10) not null,
+  idade int not null,
+  matricula varchar(6) not null,
+  cpf varchar(14) not null,
+  primary key (cpf)
+  )
+ 
+   Create table Academia(
+    maquinas varchar(20) not null,
+    pesos int not null,
+    CNPJ varchar(14) not null,
+    primary key (CNPJ)
+    )
+    
+    Create table Treino(
+      carga int not null,
+      repetiçoes int not null,
+      exercicio int not null,
+      primary key (exercicio)
+      )
+      
+      create table PersonalTrainer(
+        nome varchar(10) not null,
+  		idade int not null,
+  		cpf varchar(14) not null,
+  primary key (cpf)
+        )
+
