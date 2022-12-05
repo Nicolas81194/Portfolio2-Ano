@@ -1,0 +1,17 @@
+//Cálculo da área, circunferência e o volume de uma esfera feito no sgb
+
+import java.util.Scanner;
+public class Main  
+{
+	public static void main(String[] args) {
+		Scanner jackson = new Scanner(System.in);
+		System.out.println("Digite o raio");
+		int r = jackson.nextInt();
+		int a = 4*(r*r);
+		int c = 2*r;
+		int v = (4/3)*(r*r*r); //Aqui 4 dividido por 3 é 1,33 porém como é feito em Int o valor vai ser 1, logo o valor do volume sempre será r³
+		System.out.println("A área da esfera é: "+a);
+		System.out.println("A circuferência da esfera é: "+c);
+		System.out.println("A volume da esfera é: "+v);
+	}
+}
