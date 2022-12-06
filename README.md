@@ -10,6 +10,6 @@ A segunda atividade escolhida foi a de Exercícios de Fundamentos de TI, cujo fo
 
 Já a terceira atividade escolhida foi a Discord Design, onde nós escolhemos um site da nossa escolha e vimos as informações do site, eu gostei dessa atividade por conta que nos fez olhar os sites com outros olhares, vendo como é feito para nós sermos influenciados a clicar nas coisas.
 
-#[Lógica Computacional](https://github.com/Nicolas81194/Portfolio/tree/main/L%C3%B3gica%20Computacional)
+# [Lógica Computacional](https://github.com/Nicolas81194/Portfolio/tree/main/L%C3%B3gica%20Computacional)
 
 
