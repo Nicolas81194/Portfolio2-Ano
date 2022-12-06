@@ -9,6 +9,7 @@ A primeira atividade escolhida foi a Atividade P.A, cujo foi escolhida por conta
 A segunda atividade escolhida foi a de Exercícios de Fundamentos de TI, cujo foi escolhida por conta da dinâmica da atividade cujo eu gostie muito de realizar, onde nós vimos as informações nos slides e realizamos as questões no docs.
 
 Já a terceira atividade escolhida foi a Discord Design, onde nós escolhemos um site da nossa escolha e vimos as informações do site, eu gostei dessa atividade por conta que nos fez olhar os sites com outros olhares, vendo como é feito para nós sermos influenciados a clicar nas coisas.
-[atividade lógica computacional](https://github.com/Nicolas81194/Portfolio/tree/main/L%C3%B3gica%20Computacional)
+
+#[Lógica Computacional](https://github.com/Nicolas81194/Portfolio/tree/main/L%C3%B3gica%20Computacional)
 
 
