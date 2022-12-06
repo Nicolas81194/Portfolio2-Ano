@@ -12,4 +12,10 @@ Já a terceira atividade escolhida foi a Discord Design, onde nós escolhemos um
 
 # [Lógica Computacional](https://github.com/Nicolas81194/Portfolio/tree/main/L%C3%B3gica%20Computacional)
 
+# [Fundamentos de TI](https://github.com/Nicolas81194/Portfolio/tree/main/Fundamentos%20de%20TI)
 
+# [Fundamentos de Rede](https://github.com/Nicolas81194/Portfolio/tree/main/Fundamentos%20de%20Rede)
+
+# [Fundamentos de Design](https://github.com/Nicolas81194/Portfolio/tree/main/Fundamentos%20de%20Design)
+
+# [Fundamentos de Banco de Dados](https://github.com/Nicolas81194/Portfolio/tree/main/Fundamentos%20de%20Banco%20de%20Dados)
